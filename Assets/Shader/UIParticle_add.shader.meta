@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f652add1b8971e3429f2c6c0305d58dd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Main_Tex: {fileID: 2800000, guid: 8da29dcb3d73d3e4e8481beb5822cb23, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: assets/bundleediting/art/default/effect/shader/hdrparticle_add.shader
+  assetBundleVariant: 
